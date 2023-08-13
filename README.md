@@ -7,3 +7,4 @@ Some small scripts and console-based apps written in Python.
 6. Blackjack.
 7. Calc of basic operations.
 8. Guess the number.
+9. Coffee machine.
