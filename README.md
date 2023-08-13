@@ -5,3 +5,4 @@ Some small scripts and console-based apps written in Python.
 4. Caesar cipher.
 5. Blind auction.
 6. Blackjack.
+7. calc of basic operations.
