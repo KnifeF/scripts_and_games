@@ -3,3 +3,4 @@ Some small scripts and console-based apps written in Python.
 2. Rock Paper Scissors.
 3. Hangman.
 4. Caesar cipher.
+5. Blind auction.
