@@ -77,7 +77,8 @@ tim.hideturtle()  # Makes the turtle invisible.
 tim.penup()  # Pull the pen up – no drawing when moving.
 
 # draw some damien hirst style art on screen
-make_hirst_style_art(raw_dots=10, column_dots=10, dots_size=20)
+make_hirst_style_art(raw_dots=random.randint(5, 11), column_dots=random.randint(5, 11),
+                     dots_size=random.randint(10, 21))
 
 screen = turtle.Screen()  # a screen obj
 screen.exitonclick()  # Go into mainloop until the mouse is clicked.
