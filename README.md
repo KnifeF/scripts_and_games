@@ -12,3 +12,4 @@ Some small scripts and console-based apps written in Python.
 11. Hirst painting script (using a Tkinter based turtle graphics module).
 12. Turtle sketch.
 13. Turtle Race.
+14. Snake Game.
