@@ -8,3 +8,4 @@ Some small scripts and console-based apps written in Python.
 7. Calc of basic operations.
 8. Guess the number.
 9. Coffee machine.
+10. Quiz Game (Trivia, using opentdb).
