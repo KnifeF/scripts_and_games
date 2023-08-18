@@ -20,3 +20,4 @@ Some small scripts and console-based apps written in Python.
 19. Miles to km.
 20. Pomodoro (A timer - using Tkinter).
 21. Password manager.
+22. Flash Cards (learn frequently used words in given language).
